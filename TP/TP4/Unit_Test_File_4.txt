@@ -1,0 +1,4 @@
+Product     : Frisian Flag Swiss Chocolate
+Code        : 899275303372
+EAN-13      : 8992753033720
+PS Filename : PS4_frisian_flag.eps

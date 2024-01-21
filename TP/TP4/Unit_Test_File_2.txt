@@ -1,0 +1,4 @@
+Product     : Lotus Biscoff Spread
+Code        : 541012611695
+EAN-13      : 5410126116953
+PS Filename : PS2_biscoff.eps

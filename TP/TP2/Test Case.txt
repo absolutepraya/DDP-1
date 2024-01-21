@@ -1,0 +1,33 @@
+python search.py all "barang bukti berupa 1 satu buah laptop"
+python test.py all "barang bukti berupa 1 satu buah laptop"
+res = 31
+
+python search.py fakta "kebakaran hutan"
+python test.py fakta "kebakaran hutan"
+res = 6
+
+python search.py fakta "kebakaran hutan" AND "pohon acasia"
+python test4.py fakta "kebakaran hutan" AND "pohon acasia"
+res = 2
+
+python search.py fakta "kebakaran hutan" ANDNOT "pohon acasia"
+python test4.py fakta "kebakaran hutan" ANDNOT "pohon acasia"
+res = 4
+
+python search.py fakta "kebakaran hutan" OR "narkotika gol onga"
+python test.py fakta "kebakaran hutan" OR "narkotika gol onga"
+res = 7
+
+python search.py fakta "kebakaran hutan" ORXX "narkotika gol onga"
+python test.py fakta "kebakaran hutan" ORXX "narkotika gol onga"
+res = Mode harus berupa AND, OR atau ANDNOT.
+
+python search.py all
+Argumen program tidak benar.
+
+# Tests
+12345
+ABCDE
+VWXYZ
+text = "12345\nABCDE\nVWXYZ"
+text = ['123 45', 'AB CDE', 'VWX YZ']

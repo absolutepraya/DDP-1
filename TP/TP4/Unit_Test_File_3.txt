@@ -1,0 +1,4 @@
+Product     : NESCAFE Classic
+Code        : 899269640092
+EAN-13      : 8992696400924
+PS Filename : PS3_nescafe.eps

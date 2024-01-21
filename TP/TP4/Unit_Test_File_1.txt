@@ -1,0 +1,4 @@
+Product     : Indomilk Creamy Original
+Code        : 899300700390
+EAN-13      : 8993007003902
+PS Filename : PS1_indomilk.eps
