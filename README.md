@@ -1,4 +1,4 @@
-# Foundations of Programming 1 (DDP1)
+# Foundations of Programming 1 (DDP 1)
 
 Foundations of Programming 1 (DDP 1) is a course that aims to teach basic concepts and techniques for creating computer programs in the context of introducing computing science and problem solving. The programming language is not important in this DDP1 course. Python was chosen as the learning medium on the grounds that: (i) Python is an intuitive and beginner-friendly high-level programming language; (ii) Python is a powerful and versatile programming language that can be used to develop a variety of applications; and (iii) Python is one of the most popular languages in the programming world. 
 
