@@ -2,8 +2,6 @@
 
 Fundamentals of Programming 1 (DDP 1) is a course that aims to teach basic concepts and techniques for creating computer programs in the context of introducing computing science and problem solving. The programming language is not important in this DDP1 course. Python was chosen as the learning medium on the grounds that: (i) Python is an intuitive and beginner-friendly high-level programming language; (ii) Python is a powerful and versatile programming language that can be used to develop a variety of applications; and (iii) Python is one of the most popular languages in the programming world. 
 
-This DDP 1 course is taught through a combination of lectures and practicums conducted online at SCeLE Fasilkom UI. After taking DDP 1, students are expected to be able to build computational thinking: the ability to find solutions to problems (problem solving) with approaches based on abstraction, decomposition, pattern recognition, and algorithms.
-
 ## Learning Materials
 
 1. Introduction to computer programming and systems
